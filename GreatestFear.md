@@ -26,7 +26,7 @@
 ![fear-1 0](https://github.com/AustinAyala/MY-GREATEST-FEAR/assets/167562367/4fb19aa5-e443-4317-a2dc-af5fd4c3f3ff)
 	This image is what the average human thinks of when they think of fear. [^1]
 
-[^1]: This is the footnote.
+[^1]: This image was created by some guy on the internet and I googled fear and this came up.
 
 ---
 
