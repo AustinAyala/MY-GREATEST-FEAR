@@ -23,4 +23,34 @@
 ### So if fear is considered bad, why do humans crave it so much?
 [Why is being scared so fun?](https://www.youtube.com/watch?v=oetVvR5RQUs)
 
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.psychologytoday.com%2Fca%2Fblog%2Fdecade-of-childhood%2F202309%2F3-steps-to-overcoming-fear&psig=AOvVaw2ey-s16Ndd3Lqv_jN4lMyi&ust=1713890978772000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjP2Mij1oUDFQAAAAAdAAAAABAE](https://turningpointct.org/wp-content/uploads/2018/03/file-20181210-76968-1j48v7c.jpg)](https://virginiatkd.com/wp-content/uploads/fear.png'>
+![fear-1 0](https://github.com/AustinAyala/MY-GREATEST-FEAR/assets/167562367/4fb19aa5-e443-4317-a2dc-af5fd4c3f3ff)
+	This image is what the average human thinks of when they think of fear. [^1]
+
+[^1]: This is the footnote.
+
+---
+
+| My Fear's | Oliver's Fears |
+| ----------- | ----------- |
+| Spiders | Nothing |
+| Snakes | Nothing |
+| Failure | Nothing
+| Drowning | Nothing
+
+```
+	Let MostFearedManOnEarth = JohnOliverBloor 
+{
+  "firstName": "John",
+  "lastName": "Oliver",
+  "age": 16
+  "height': 5'4
+}
+if MostFearedManOnEarth > Austin {
+let world = normalStatus
+}
+else {
+let world = CompleteChaos
+}
+```
+
+
