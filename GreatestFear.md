@@ -4,7 +4,7 @@
 1. **What is Fear?**
 2. *Noun: An unpleasant emotion caused by the belief that someone or something is dangerous, likely to cause pain, or a threat*
 3. *Verb: Be afraid of (someone or something) as likely to be dangerous, painful, or threatening*
-- **Whqat 
+- **What 
 - Arachnophobia: an intense fear of spiders and other arachnids
 - Ophidiophobia: an intense fear of snakes
 - Acrophobia: an intense fear of heights
@@ -15,3 +15,8 @@
 - Social phobia: an intense fear of social interactions
 - Agoraphobia: an intense fear of places that are difficult to escape, sometimes involving a fear of crowded or open spaces- 
 - Mysophobia: an intense fear of germs, dirt, and other contaminants
+
+>So what is my fear?
+>
+`Maybe Spiders? Maybe Snakes? Maybe Failure?`
+---
