@@ -52,5 +52,16 @@ else {
 let world = CompleteChaos
 }
 ```
+OKraken
+: The Most Feared Man On Earth; John Oliver Bloor
 
+~~My fear is spiders~~
+
+~~My fear is Whales~~
+
+~~My fear is failure!~~
+
+~~My fear is drowning~~
+
+- [x] My fear is death
 
