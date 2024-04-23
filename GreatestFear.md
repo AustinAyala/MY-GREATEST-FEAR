@@ -4,7 +4,7 @@
 1. **What is Fear?**
 2. *Noun: An unpleasant emotion caused by the belief that someone or something is dangerous, likely to cause pain, or a threat*
 3. *Verb: Be afraid of (someone or something) as likely to be dangerous, painful, or threatening*
-- **What**
+- **What are the most commone fears?**
 - Arachnophobia: an intense fear of spiders and other arachnids
 - Ophidiophobia: an intense fear of snakes
 - Acrophobia: an intense fear of heights
